@@ -13,7 +13,7 @@ const exercisesDatabase = [
     name: 'Push Ups',
     category: 'Upper Body',
     bodyPart: 'Chest, Shoulders, Triceps',
-    image: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/11/push-up-variations.jpg',
+    image: 'https://media1.popsugar-assets.com/files/thumbor/3mHOo40hZnyZ0JSCMzqq0G8vO3g/fit-in/1024x1024/filters:format_auto-!!-:strip_icc-!!-/2017/03/22/738/n/1922729/8589c22c445d63e2_0e7e9800cb65fd44_Tricep-Push-Up.jpg',
     instructions: '1. Begin in plank position with hands shoulder-width apart.\n2. Keep your body in a straight line from head to toe.\n3. Lower your body until your chest nearly touches the floor.\n4. Push yourself back up to the starting position.\n5. Repeat for desired reps.'
   },
   {
@@ -21,7 +21,7 @@ const exercisesDatabase = [
     name: 'Dumbbell Rows',
     category: 'Upper Body',
     bodyPart: 'Back',
-    image: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/04/dumbbell-row.png',
+    image: 'https://th.bing.com/th?id=OIF.itIhjFkl8o%2bzviPm2wTG6Q&rs=1&pid=ImgDetMain',
     instructions: '1. Place your right knee and hand on a bench.\n2. Hold a dumbbell in your left hand with arm extended.\n3. Pull the dumbbell up to your side, keeping elbow close to body.\n4. Lower back down with control.\n5. Complete reps, then switch sides.'
   },
   {
@@ -29,7 +29,7 @@ const exercisesDatabase = [
     name: 'Shoulder Press',
     category: 'Upper Body',
     bodyPart: 'Shoulders',
-    image: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/03/seated-dumbbell-shoulder-press.png',
+    image: 'https://th.bing.com/th?id=OIF.OceHGq89kL%2bGcNssB6AwDw&rs=1&pid=ImgDetMain',
     instructions: '1. Sit on a bench with back support.\n2. Hold dumbbells at shoulder height with palms facing forward.\n3. Press the weights overhead until arms are fully extended.\n4. Slowly lower back to starting position.\n5. Maintain core engagement throughout.'
   },
   {
@@ -37,7 +37,7 @@ const exercisesDatabase = [
     name: 'Tricep Dips',
     category: 'Upper Body',
     bodyPart: 'Triceps',
-    image: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/10/bench-dip.jpg',
+    image: 'https://res.cloudinary.com/hydrow/image/upload/f_auto/w_2048/q_100/v1747659611/Blog/triceps-exercises.jpg',
     instructions: '1. Sit on the edge of a bench or chair.\n2. Place hands beside hips, fingers pointing forward.\n3. Slide hips off bench, supporting weight with arms.\n4. Lower body by bending elbows until arms form 90° angle.\n5. Push back up to starting position.'
   },
   {
@@ -45,7 +45,7 @@ const exercisesDatabase = [
     name: 'Bicep Curls',
     category: 'Upper Body',
     bodyPart: 'Biceps',
-    image: 'https://www.inspireusafoundation.org/wp-content/uploads/2022/11/dumbbell-bicep-curl-variations.jpg',
+    image: 'https://i.pinimg.com/originals/81/12/b9/8112b9d9756f049b573665f6c8aefdf4.jpg',
     instructions: '1. Stand holding dumbbells with arms extended, palms forward.\n2. Keep elbows close to sides.\n3. Curl weights toward shoulders by bending elbows.\n4. Squeeze biceps at the top.\n5. Lower with control to starting position.'
   },
   
